@@ -23,3 +23,8 @@ body {
 main {
     margin-left: 15px;
 }
+#artigo {
+    border-style: dashed;
+    border-width: 1px;
+    padding: 5px;
+}
