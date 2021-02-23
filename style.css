@@ -1,3 +1,15 @@
 body {
     background-color: rgb(253, 251, 251);
+    margin: 0;
+    padding: 0;
+}
+#cabecalho {
+    position: fixed;
+    top: 0px;
+    background-color: #469536;
+    width: 100%;
+}
+#titulo{
+    color: white;
+    text-align: center;
 }
