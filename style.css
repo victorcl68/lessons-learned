@@ -17,3 +17,6 @@ body {
     padding-top: 100px;
     width: 25%;
 }
+.listas {
+    display: inline-block;
+}
