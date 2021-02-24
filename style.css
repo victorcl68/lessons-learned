@@ -32,7 +32,7 @@ main {
   display: inline-block;
   border-style: dashed;
   border-width: 1px;
-  padding: 5px;
+  padding: 0 5px;
   width: 40%;
   margin-right: 5%;
 }
@@ -41,7 +41,7 @@ main {
   display: inline-block;
   border-style: dashed;
   border-width: 1px;
-  padding: 5px;
+  padding: 0 5px;
   font-size: 14px;
   width: 40%;
   margin-left: 5%;
@@ -62,4 +62,12 @@ main {
 
 table {
   margin-top: 2%;
+}
+
+#rodape {
+  font-size: 15px;
+}
+
+#linkgoogle {
+  margin-top: 0;
 }
