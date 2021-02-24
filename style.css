@@ -27,4 +27,12 @@ main {
     border-style: dashed;
     border-width: 1px;
     padding: 5px;
+    width: 40%;
+}
+#aprendizado {
+    border-style: dashed;
+    border-width: 1px;
+    padding: 5px;
+    font-size: 14px;
+    width: 40%;
 }
