@@ -1,61 +1,61 @@
 body {
   background-color: rgb(253, 251, 251);
-        margin: 0;
-        padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 #cabecalho {
-        position: fixed;
-        background-color: green;
-        width: 100%;
+  position: fixed;
+  background-color: green;
+  width: 100%;
 }
 
 #titulo {
-        color: white;
-        text-align: center;
+  color: white;
+  text-align: center;
 }
 
 #minha_foto {
-        padding-top: 8.5%;
-        width: 25%;
+  padding-top: 8.5%;
+  width: 25%;
 }
 
 .listas {
-        display: inline-block;
+  display: inline-block;
 }
 
 main {
-        margin-left: 15px;
+  margin-left: 15px;
 }
 
 .lado-esquerdo {
-        display: inline-block;
-        border-style: dashed;
-        border-width: 1px;
-        padding: 5px;
-        width: 40%;
-        margin-right: 5%;
+  display: inline-block;
+  border-style: dashed;
+  border-width: 1px;
+  padding: 5px;
+  width: 40%;
+  margin-right: 5%;
 }
 
 .lado-direito {
-        display: inline-block;
-        border-style: dashed;
-        border-width: 1px;
-        padding: 5px;
-        font-size: 14px;
-        width: 40%;
-        margin-left: 5%;
+  display: inline-block;
+  border-style: dashed;
+  border-width: 1px;
+  padding: 5px;
+  font-size: 14px;
+  width: 40%;
+  margin-left: 5%;
 }
 
 #navilink {
-        color: white;
-        text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 #textnav {
-        text-align: center;
-        font-size: 20px;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        letter-spacing: 1px;
-        line-height: 1px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 1px;
+  line-height: 1px;
 }
