@@ -36,3 +36,10 @@ main {
     font-size: 14px;
     width: 40%;
 }
+#navilink {
+    color: white;
+    text-decoration: none
+}
+#textnav {
+    text-align: center;
+}
