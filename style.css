@@ -14,7 +14,7 @@ body {
     text-align: center;
 }
 #minha_foto{
-    padding-top: 6.5%;
+    padding-top: 8.5%;
     width: 25%;
 }
 .listas {
@@ -23,18 +23,22 @@ body {
 main {
     margin-left: 15px;
 }
-#artigo {
+.lado-esquerdo {
+    display: inline-block;
     border-style: dashed;
     border-width: 1px;
     padding: 5px;
     width: 40%;
+    margin-right: 5%;
 }
-#aprendizado {
+.lado-direito {
+    display: inline-block;
     border-style: dashed;
     border-width: 1px;
     padding: 5px;
     font-size: 14px;
     width: 40%;
+    margin-left: 5%;
 }
 #navilink {
     color: white;
