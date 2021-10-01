@@ -12,11 +12,7 @@ Neste projeto, você será capaz de:
 
 ## O que foi desenvolvido
 
-Uma página HTML estilizada com CSS que contenha uma série de informações sobre mim e o que aprendi na Trybe ao longo logo nos três primeiros blocos. O site está com elementos posicionados e estilizados e além disto, contém semântica apropriada para que seja acessível e melhor ranqueado.
-
-Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.
-
-Você vai desenvolver um site 
+Uma página HTML estilizada com CSS que contenha uma série de informações sobre mim e o que aprendi na Trybe ao longo dos três primeiros blocos (e o link de um site que gosto, uma foto minha, entre outras informações). O site está com elementos posicionados e estilizados e além disto, contém semântica apropriada para que seja acessível e melhor ranqueado.
 
 ---
 
